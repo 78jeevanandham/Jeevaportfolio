@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jeevaportfolio/static/css/main.4463e2df.css",
+    "main.css": "/Jeevaportfolio/static/css/main.7133f024.css",
     "main.js": "/Jeevaportfolio/static/js/main.5605b27c.js",
     "static/js/453.b06fd736.chunk.js": "/Jeevaportfolio/static/js/453.b06fd736.chunk.js",
     "static/media/JeevanandhamResume.pdf": "/Jeevaportfolio/static/media/JeevanandhamResume.9cf1c85cb93584727be7.pdf",
@@ -10,12 +10,12 @@
     "static/media/work4.jpg": "/Jeevaportfolio/static/media/work4.aee985961b648f4df1f2.jpg",
     "static/media/Jeevanandham.jpg": "/Jeevaportfolio/static/media/Jeevanandham.0288e0a51025ee3ade80.jpg",
     "index.html": "/Jeevaportfolio/index.html",
-    "main.4463e2df.css.map": "/Jeevaportfolio/static/css/main.4463e2df.css.map",
+    "main.7133f024.css.map": "/Jeevaportfolio/static/css/main.7133f024.css.map",
     "main.5605b27c.js.map": "/Jeevaportfolio/static/js/main.5605b27c.js.map",
     "453.b06fd736.chunk.js.map": "/Jeevaportfolio/static/js/453.b06fd736.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4463e2df.css",
+    "static/css/main.7133f024.css",
     "static/js/main.5605b27c.js"
   ]
 }
