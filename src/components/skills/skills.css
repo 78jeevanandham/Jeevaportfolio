@@ -25,6 +25,7 @@
 
 .skills__group {
     display: grid;
+    grid-template-columns: repeat(2,150px);
     align-items: flex-start;
     row-gap: 1rem;
 }
@@ -56,9 +57,16 @@
 /* For large devices */
 @media screen and (max-width: 992px) {
     .skills__container {
-        grid-template-columns: max-content;
+        grid-template-columns: repeat(2,350px);
         row-gap: 2rem;
     }
+}
+@media screen and (max-width: 768px) {
+
+    .skills__container{
+        grid-template-columns: max-content;
+    }
+    
 }
 
 /* For medium devices */
@@ -70,6 +78,13 @@
     .skills__content {
         padding: 1.5rem;
     }
+    .skills__group {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: flex-start;
+    row-gap: 1rem;
+}
+
 }
 
 /* For small devices */
