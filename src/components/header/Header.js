@@ -74,7 +74,7 @@ const Header = () => {
                         showMenu(!Toggle)
                     }>
                              <a href="#certification " onClick={()=> setActiveNav('#certification')} className={activeNav === "#certification" ? "nav__link active-link" : "nav__link"}>
-                                <i className="uil uil-award nav__icon" ></i> Certifications
+                                <i className="uil uil-award-alt nav__icon" ></i> Certifications
                             </a>
                         </li>
 
