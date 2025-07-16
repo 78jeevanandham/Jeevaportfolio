@@ -13,6 +13,7 @@ import ScrollUp from './components/scrollup/ScrollUp';
 
 import { ThemeProvider } from './ThemeContext';
 import Work from './components/work/Work';
+import Certificate from './components/certificate/Certificate';
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
         {/* <Service /> */}
         <Qualification />
         <Work/>
+        <Certificate/>
         
         <Contact />
       </main>
